@@ -1,0 +1,16 @@
+{
+	"name": "themeprovider-bug-repro",
+	"scripts": {
+		"build": "gatsby build",
+		"develop": "gatsby develop",
+		"serve": "gatsby serve"
+	},
+	"dependencies": {
+		"babel-plugin-styled-components": "^1.8.0",
+		"gatsby": "^2.0.0",
+		"gatsby-plugin-styled-components": "^3.0.1",
+		"react": "^16.5.1",
+		"react-dom": "^16.5.1",
+		"styled-components": "^4.0.2"
+	}
+}
